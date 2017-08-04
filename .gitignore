@@ -1,1 +1,3 @@
 secrets.rb
+*.csv
+historical_csvs/*
